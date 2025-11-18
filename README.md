@@ -3,7 +3,7 @@ Customer Churn Analysis :
         This project focuses on analyzing customer behavior to understand why customers leave (churn) and identifying key factors that influence churn. It includes data cleaning, 
         exploratory data analysis, visualization, and machine learning modeling for churn prediction.
         
-Project Objectives
+Project Objectives :
   Analyze customer patterns to understand churn drivers
   Build predictive models to identify customers at high risk of churn
   Visualize insights for business decision-making
@@ -11,10 +11,9 @@ Project Objectives
 
 Data Preprocessing : 
   Handled missing values
-  Encoded categorical variables
   Removed duplicates
 
-Exploratory Data Analysis
+Exploratory Data Analysis:
 
   Key insights explored:
     Churn distribution
@@ -25,7 +24,7 @@ Exploratory Data Analysis
     
 Visuals created using Python and Power BI.
 
-Machine Learning
+Machine Learning:
     Trained model using Random Forest
 
 Evaluated using:
@@ -33,7 +32,7 @@ Evaluated using:
     Precision
     Recall
 
-Power BI Dashboard
+Power BI Dashboard:
 
 Interactive dashboard includes:
     Total churn rate
@@ -42,7 +41,7 @@ Interactive dashboard includes:
     Monthly charges impact
     Business recommendations
 
-Key Findings
+Key Findings:
   Month-to-month customers churn the most
   High charges increase churn probability
   Low-tenure customers are at highest risk
